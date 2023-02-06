@@ -14,7 +14,7 @@ ProduceDictionary = {
     "Parsnips": {"cost": 2.27, "amt_sold": 28.1, "total": 63.79},
     "Asparagus": {"cost": 2.49, "amt_sold": 23.2, "total": 57.77},
     "Avocados": {"cost": 3.23, "amt_sold": 2.0, "total": 6.46},
-    "Celery": {"cost": 3.07, "amt_sold": 18.5, "total": 56.79},
+    "Celery": {"cost": 3.07, "amt_sold": 18.5, "total": 56.8},
     "Spinach": {"cost": 4.12, "amt_sold": 4.9, "total": 20.19},
     "Cucumber": {"cost": 1.07, "amt_sold": 4.5, "total": 6.75},
     "Apricots": {"cost": 3.71, "amt_sold": 17.6, "total": 65.3},
@@ -43,7 +43,7 @@ ProduceDictionary = {
     "Coconuts": {"cost": 1.18, "amt_sold": 4.2, "total": 4.96},
     "Orange": {"cost": 1.09, "amt_sold": 28.6, "total": 31.17},
     "Lemon": {"cost": 1.29, "amt_sold": 5.5, "total": 7.1},
-    "Brussels sprouts": {"cost": 1.65, "amt_sold": 22.9, "total": 37.78},
+    "Brussels sprouts": {"cost": 1.65, "amt_sold": 22.9, "total": 37.79},
     "Kale": {"cost": 5.02, "amt_sold": 16.8, "total": 84.34},
     "Bok choy": {"cost": 1.42, "amt_sold": 15.4, "total": 21.87},
 }
